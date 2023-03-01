@@ -21,3 +21,4 @@ ClsPersona clsPersona = new ClsPersona();
 
 Console.WriteLine(clsPersona.CalcularIMC(persona));
 Console.WriteLine(clsPersona.esMayorDeEdad(persona));
+Console.ReadKey();
